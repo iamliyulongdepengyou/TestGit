@@ -6,6 +6,7 @@ public class Person {
 		System.out.println("right.........");
 		System.out.println("left..........");
 		System.out.println("hot_fix............");
+		System.out.println(" test idea push..........");
 	}
 	
 }
